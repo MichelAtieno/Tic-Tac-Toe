@@ -22,6 +22,13 @@
 #Create a function to check if the board is full
 #def is_board_full(board)
 
+#stage 5
+#Creatng our game AI
+#def get_computer_move(board, character):
+#i) Return random number
+#ii)Make sure the rndom number is for an empty spot
+
+
 #import 
 import os 
 import time
